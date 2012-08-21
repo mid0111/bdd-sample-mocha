@@ -1,0 +1,13 @@
+{
+   "name": "bdd-sample-mocha"
+  ,"version": "0.0.1"
+  ,"private": true
+  ,"dependencies":{
+      "mongoose": "*"
+     ,"express": "*"
+   }
+  ,"devDependencies": {
+      "mocha": "*"
+     ,"should": "*"
+   }
+}
