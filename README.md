@@ -2,7 +2,7 @@ bdd-sample-mocha
 ================
 
 This is a sample project of mocha.  
-See [mocha project page] (http://visionmedia.github.com/mocha/).  
+See [mocha project page] (http://mochajs.org/).  
 
 
 Install mocha
